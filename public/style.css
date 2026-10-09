@@ -1116,3 +1116,17 @@ a {
 .survey-submit-button[hidden] {
   display: none !important;
 }
+
+
+.site-footer {
+  background: var(--dark);
+  color: #BFC5CF;
+  text-align: center;
+  padding: 0 20px 30px;
+  font-size: 11px;
+  line-height: 1.8;
+}
+.site-footer p {
+  position: relative;
+  top: -50px;
+}
